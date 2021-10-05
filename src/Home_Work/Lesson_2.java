@@ -11,7 +11,7 @@ public class Lesson_2 {
 
     }
 
-    public static boolean IntSum(int a, int b) {
+    public static boolean IntSum(int a , int b) {
         int summa = a + b;
         if (summa >= 10 && summa <= 20) {
             return true;
